@@ -1,0 +1,13 @@
+Arrays & Strings
+Easy
+
+Reverse a string without using built-in reverse
+Find the largest element in an array
+Find second largest number
+Count vowels in a string
+Check if string is palindrome
+Move all zeros to the end
+Remove duplicates from sorted array
+Find missing number from 1 to N
+Rotate array by K positions
+Merge two sorted arrays
